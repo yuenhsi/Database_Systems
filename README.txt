@@ -1,0 +1,3 @@
+This repository contains code I have written for the 300-level Computer Science class, Database Systems. The course description follows. 
+
+Database systems are used in almost every aspect of computing, from storing data for websites to maintaining financial information for large corporations. Intrinsically, what is a database system and how does it work? This course takes a two-pronged approach to studying database systems. From a systems perspective, we will look at the low-level details of how a database system works internally, studying such topics as file organization, indexing, sorting techniques, and query optimization. From a theory perspective, we will examine the fundamental ideas behind database systems, such as normal forms and relational algebra. 
